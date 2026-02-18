@@ -7,7 +7,7 @@
 - 🔍 Atualmente focado em Front-end;
 - 📚 Sempre buscando me aperfeiçoar e buscando novos conhecimentos;
 - ☕ Já disse que amo um cafézinho?;
-- 💻 <a href="https://vinicius-cordeiro.netlify.app/#"> Meu portifólio dev</a>.
+- 💻 <a href="https://viniciusapcordeiro.github.io/Portifolio-ViniciusCordeiro/#"> Meu portifólio dev</a>.
 
 <br>
 <div>
